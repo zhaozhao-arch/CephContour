@@ -11,5 +11,4 @@ Cephalometric diagnosis plays a pivotal role in orthodontics. Currently, the dom
 * Multi-Center Dataset: Integrates 2,000 lateral cephalograms across multiple centers, standardizing six clinical diagnostic tasks based on ABO standards.
 * Dense Structural Tracings: Provides expert-annotated cephalometric tracings for the CephContour-400 subset, bypassing traditional error-prone sparse landmarks.
 * Novel Architecture: Introduces the Hierarchical Geometric Injection Module (HGIM) to rectify visual features via contour-derived dense unsigned distance fields (UDFs). 
-* State-of-the-Art Performance: Achieves 93.51% Avg. Accuracy and 98.75% AUC, while maintaining a highly efficient clinical inference speed of 12 ms/image.
 
